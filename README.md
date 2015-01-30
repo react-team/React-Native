@@ -1,6 +1,12 @@
 # React-Native
 post for React-Native
 
+
+## What is React Native?
+
+> a way to build native apps in JavaScript using React.js for user interface.
+
+
 ## How React Native works
 
 React Native runs JavaScript engine in a separate background thread, which communicates with the native main thread using a batched async messaging protocol. There’s a plugin for React that uses this protocol for communication.
@@ -8,6 +14,12 @@ React Native runs JavaScript engine in a separate background thread, which commu
 ## What is React Native'goal
 
 > Less than one second between code change and updated app
+
+
+## Use in production
+
+* Facebook’s Groups - iOS app
+
 
 
 ## More
