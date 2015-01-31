@@ -8,7 +8,7 @@ post for React-Native
 
 不在用 DOM 来渲染，而是用原生 UI 组件，比如：
 
-> 你用 <View> 和 <Image> 来替代我们目前常用的 <div> 和 <img>
+你用 &lt;View&gt; 和 &lt;Image&gt; 来替代我们目前常用的 &lt;div&gt; 和 &lt;img&gt;
 
 
 ## How React Native works
