@@ -41,6 +41,7 @@ Learn once, write anywhere ----> <del> Write once, run anywhere <del>
 2. [移动Web技术的春天来了？Facebook发布React Native，用JavaScript开发移动原生应用](http://www.csdn.net/article/2015-01-29/2823762-facebook-announces-react-native)
 3. [React Native — write native apps with React.js](http://www.progville.com/javascript/react-native-apps-react-js/)
 4. [Use ReactJS to Build Native Apps in Hacker News](https://news.ycombinator.com/item?id=8961551)
-5. [如何评价 React Native？](http://www.zhihu.com/question/27852694)
+5. [如何评价 React Native？ - zhihu 讨论](http://www.zhihu.com/question/27852694)
 6. [twitter上面的 reactjsconf 讨论](https://twitter.com/hashtag/reactjsconf?src=hash)
 7. [React.js Conf 2015 Keynote - Introducing React Native](https://www.youtube.com/watch?v=KVZ-P-ZI6W4&t=22m24s)
+8. [JavaScript’s History and How it Led To ReactJS](http://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/)
