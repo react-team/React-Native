@@ -34,3 +34,4 @@ React Native runs JavaScript engine in a separate background thread, which commu
 4. [Use ReactJS to Build Native Apps in Hacker News](https://news.ycombinator.com/item?id=8961551)
 5. [如何评价 React Native？](http://www.zhihu.com/question/27852694)
 6. [twitter上面的 reactjsconf 讨论](https://twitter.com/hashtag/reactjsconf?src=hash)
+7. [React.js Conf 2015 Keynote - Introducing React Native](https://www.youtube.com/watch?v=KVZ-P-ZI6W4&t=22m24s)
