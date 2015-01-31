@@ -6,6 +6,10 @@ post for React-Native
 
 > a way to build native apps in JavaScript using React.js for user interface.
 
+不在用 DOM 来渲染，而是用原生 UI 组件，比如：
+
+你用 <View> 和 <Image> 来替代我们目前常用的 <div> 和 <img>
+
 
 ## How React Native works
 
