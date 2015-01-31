@@ -26,6 +26,8 @@ React Native runs JavaScript engine in a separate background thread, which commu
 
 > Less than one second between code change and updated app
 
+Learn once, write anywhere ----> <del> Write once, run anywhere <del>
+
 
 ## Use in production
 
