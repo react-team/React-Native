@@ -2,6 +2,13 @@
 post for React-Native
 
 
+## Where did React come from?
+
+* Facebook Ads Org
+* Complicated Apps
+* Cascading Updates
+* Unpredictable Code
+
 ## What is React Native?
 
 > a way to build native apps in JavaScript using React.js for user interface.
