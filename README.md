@@ -45,3 +45,4 @@ Learn once, write anywhere ----> <del> Write once, run anywhere <del>
 6. [twitter上面的 reactjsconf 讨论](https://twitter.com/hashtag/reactjsconf?src=hash)
 7. [React.js Conf 2015 Keynote - Introducing React Native](https://www.youtube.com/watch?v=KVZ-P-ZI6W4&t=22m24s)
 8. [JavaScript’s History and How it Led To ReactJS](http://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/)
+9. [Is React Native Cross-Platform Snake-Oil?](http://rexstjohn.com/is-react-native-cross-platform-snake-oil/)
