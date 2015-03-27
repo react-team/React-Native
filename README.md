@@ -52,3 +52,4 @@ Learn once, write anywhere ----> <del> Write once, run anywhere <del>
 8. [JavaScript’s History and How it Led To ReactJS](http://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/)
 9. [React Native：Facebook出品，可用JavaScript开发移动原生应用 - InfoQ](http://www.infoq.com/cn/news/2015/02/react-native-facebook-javascript)
 10. [Is React Native Cross-Platform Snake-Oil?](http://rexstjohn.com/is-react-native-cross-platform-snake-oil/)
+11. [React Native第一课](http://www.html-js.com/article/2783)
