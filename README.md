@@ -7,6 +7,7 @@ post for React-Native
 * [repo is here](https://github.com/facebook/react-native)
 * [React Native: Bringing modern web techniques to mobile -- from FE code site](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 * [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
+* [Introducing React Native: Building Apps with JavaScript -- 比官方古板的例子要强 10x](Introducing React Native: Building Apps with JavaScript)
 
 
 ## Editor
