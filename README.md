@@ -7,6 +7,11 @@ post for React-Native
 [repo is here](https://github.com/facebook/react-native)
 
 
+## Editor
+
+[Nuclide](http://nuclide.io/) - An open IDE for React Native, web, and native mobile development, built as a suite of packages on top of Atom to provide hackability and the support of an active community.
+
+
 ## Where did React come from?
 
 * Facebook Ads Org
