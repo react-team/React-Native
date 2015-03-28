@@ -5,7 +5,7 @@ post for React-Native
 ## Latest
 
 * [repo is here](https://github.com/facebook/react-native)
-* [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
+* [React Native: Bringing modern web techniques to mobile -- from FE code site](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 
 
 ## Editor
