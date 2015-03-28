@@ -64,3 +64,4 @@ Learn once, write anywhere ----> <del> Write once, run anywhere <del>
 13. [Facebook announces Nuclide, an open-source IDE based on GitHub’s Atom text editor](http://venturebeat.com/2015/03/26/facebook-announces-nuclide-an-open-source-ide-based-on-githubs-atom-text-editor/)
 14. [Nuclide in Hacker News](https://news.ycombinator.com/item?id=9273976)
 15. [如何调试React Native？](http://segmentfault.com/q/1010000002629545)
+16. [跨平台开发时代的 (再次) 到来？](http://onevcat.com/2015/03/cross-platform/)
