@@ -8,7 +8,7 @@ post for React-Native
 * [Community Round-up #26 -- When is React Native Android coming?](http://facebook.github.io/react/blog/2015/03/30/community-roundup-26.html)
 * [React Native: Bringing modern web techniques to mobile -- from FE code site](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 * [React Native Has Landed](http://moduscreate.com/react-native-has-landed/)
-* [Introducing React Native: Building Apps with JavaScript -- 比官方古板的例子要强 10x](Introducing React Native: Building Apps with JavaScript)
+* [Introducing React Native: Building Apps with JavaScript -- 比官方古板的例子要强 10x](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 
 
 ## Editor
