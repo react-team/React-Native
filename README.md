@@ -67,3 +67,4 @@ Learn once, write anywhere ----> <del> Write once, run anywhere <del>
 14. [Nuclide in Hacker News](https://news.ycombinator.com/item?id=9273976)
 15. [如何调试React Native？](http://segmentfault.com/q/1010000002629545)
 16. [跨平台开发时代的 (再次) 到来？](http://onevcat.com/2015/03/cross-platform/)
+17. [React Native – When the Mobile Web Isn’t Enough](http://red-badger.com/blog/2015/04/23/react-native-when-the-mobile-web-isnt-enough/)
